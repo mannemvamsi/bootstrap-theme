@@ -1,0 +1,22 @@
+section {
+  margin-top:30px;
+  margin-bottom:30px;
+}
+.mb20 {
+  margin-bottom:20px;
+}
+.b-modal {
+  display:block;
+  position:relative;
+}
+@media (min-width: 768px) {
+ .b-modal .modal-dialog {
+    width:auto;
+} 
+}
+@media (max-width: 768px) {
+ .b-modal .modal-dialog {
+    width:auto;
+} 
+}
+ 
